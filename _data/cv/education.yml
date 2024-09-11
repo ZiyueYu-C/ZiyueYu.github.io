@@ -1,15 +1,15 @@
 - title: 'B.Sc. Theoretical and applied mechanics'
   description: 'B.Sc. Southern University of Science and Technology'
-  - title: "SUSTECH"
+  - title: 'SUSTECH'
   url: "https://www.sustech.edu.cn/"
-  institution: "MAE(Department Of Mechanics And Aerospace Engineering )"
+  institution: 'MAE(Department Of Mechanics And Aerospace Engineering)'
   url: "https://mae.sustech.edu.cn/"  # 在这里添加链接
 
 - title: 'Ph.D. civil and environmental engineering'
   description: 'University of Pittsburgh'
-  - title: "PSU"
+  - title: 'PSU'
   url: "https://www.pitt.edu/"
-  institution: "Civil and Environmental Engineering"
+  institution: 'Civil and Environmental Engineering'
   url: "https://www.engineering.pitt.edu/Departments/Civil-Environmental/"  # 在这里添加链接
 
 
