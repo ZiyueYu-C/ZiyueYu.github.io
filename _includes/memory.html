@@ -5,6 +5,10 @@
       <ul class="list-unstyled">
         {% for memory in site.data.settings.memory %}
         <li class="mb-2">
+          <!-- 显示图片 -->
+          <img src="{{ memory.image }}" alt="{{ memory.title }}" class="img-fluid mb-2" style="max-width: 150px;">
+          
+          <!-- 显示链接 -->
           <a href="{{ memory.url }}" class="text-decoration-none">{{ memory.title }}</a>
         </li>
         {% endfor %}
@@ -12,4 +16,3 @@
     </div>
   </div>
 </div>
-
