@@ -3,7 +3,9 @@ layout: home
 title: "Home"
 ---
 
-This Ziyue Yu<br>
+This Ziyue Yu
+<br>
+<br>
 Here is some practice about how to build up my own website
 
 I graduated from Southern University of Science and Technology as a Bachelor of Science, major in Theoretical and Applied Mechanics. 
