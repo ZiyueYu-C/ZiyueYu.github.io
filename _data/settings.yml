@@ -22,7 +22,7 @@ contacts:
     image: 'assets/img/1 (7).jpg'
 
 courses:
-  - name: "Fluid mechanics"
+  - name: "Fluid Mechanics"
 
 publications:
   - title: 'Low Reynold number with high energy flux by design alignment between stress by injection and background strain'
