@@ -1,14 +1,21 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
-
+  - name: 'people'
+    url: '/people'
+  - name: 'publications'
+    url: '/publications'
+  - name: 'courses'
+    url: '/courses'
+  - name: 'cv'
+    url: '/cv'
+  - name: 'contact'
+    url: '/contact'
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-
+  - icon: 'github'
+    link: 'https://github.com/LeNPaul'
+  - icon: 'twitter'
+    link: 'https://twitter.com/paululele'
+  - icon: 'instagram'
+    link: 'https://instagram.com/paululele'
+  - icon: 'linkedin'
+    link: 'https://linkedin.com/in/lenpaul'
