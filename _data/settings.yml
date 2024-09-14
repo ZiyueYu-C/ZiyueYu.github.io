@@ -31,9 +31,12 @@ publications:
     url: 'https://www.leifang.org/'
 
 memory:
-  - title: "Memory 1"
-    url: "/memory/memory1"
-    image: "/assets/images/memory_picture/1 (4).jpg"
+  - title: "My daily life"
+  # url: "/memory/memory1"
+    images:
+      - "/assets/images/memory_picture/1 (1).jpg"
+      - "/assets/images/memory_picture/1 (4).jpg"
+
 
 
 
