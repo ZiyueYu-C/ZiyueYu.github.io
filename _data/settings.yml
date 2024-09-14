@@ -34,8 +34,8 @@ memory:
   - title: "My daily life"
   # url: "/memory/memory1"
     images:
-      - "/assets/img/memory_picture/me_1.jpg"
-      - "/assets/img/memory_picture/me_like_1.jpg"
+      - "/assets/img/me_1.jpg"
+      - "/assets/img/me_like_1.jpg"
 
 
 
