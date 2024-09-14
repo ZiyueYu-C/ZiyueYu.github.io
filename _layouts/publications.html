@@ -1,17 +1,7 @@
-
+---
+layout: default
+---
 
 {{ content }}
 
 {% include publications.html %}
-
-<section id="publications">
-  <h2>Publications</h2>
-  <ul>
-    {% for pub in site.data.publications.index %}
-      <li>
-        <a href="{{ pub.url }}">{{ pub.name }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
-
