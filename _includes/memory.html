@@ -5,12 +5,15 @@
       <ul class="list-unstyled">
         {% for memory in site.data.settings.memory %}
         <li class="mb-2">
-          <!-- 遍历并显示所有图片 -->
-          {% for image in memory.images %}
-          <img src="{{ image }}" alt="{{ memory.title }}" class="img-fluid mb-2" style="max-width: 150px;">
-          {% endfor %}
-          
-          <!-- 显示链接 -->
+          <!-- 检查并遍历 memory 中的 images 列表 -->
+          {% if memory.images %}
+            <div class="memory-images">
+              {% for image in memory.images %}
+                <img src="{{ image }}" alt="{{ memory.title }}" class="img-fluid mb-2" style="max-width: 150px;">
+              {% endfor %}
+            </div>
+          {% endif %}
+          <!-- 显示标题 -->
           <a href="{{ memory.url }}" class="text-decoration-none">{{ memory.title }}</a>
         </li>
         {% endfor %}
