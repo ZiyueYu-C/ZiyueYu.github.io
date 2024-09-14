@@ -1,1 +1,15 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Memory</h3>
+    <div class="row">
+      <ul class="list-unstyled">
+        {% for memory in site.data.settings.memory %}
+        <li class="mb-2">
+          <a href="{{ memory.url }}" class="text-decoration-none">{{ memory.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
 
