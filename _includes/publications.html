@@ -2,6 +2,8 @@
 <h3>Publications</h3>
 <ul>
   {% for publication in site.data.settings.publications %}
-    <li><a href="{{ publication.url }}">{{ publication.title }}</a></li>
+    <li>
+      <a href="{{ publication.url }}">{{ publication.title }}</a>
+    </li>
   {% endfor %}
 </ul>
