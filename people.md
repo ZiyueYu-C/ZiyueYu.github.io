@@ -1,4 +1,4 @@
 ---
-layout: people
-title: "Memory"
+layout: memory
+title: "memory"
 ---
