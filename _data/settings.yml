@@ -1,6 +1,6 @@
 menu:
-  - name: 'people'
-    url: '/people'
+  - name: 'memory'
+    url: '/memory'
   - name: 'publications'
     url: '/publications'
   - name: 'courses'
