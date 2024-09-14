@@ -10,16 +10,6 @@ menu:
   - name: 'contact'
     url: '/contact'
 
-social:
-  - icon: 'github'
-    link: 'https://github.com/LeNPaul'
-  - icon: 'twitter'
-    link: 'https://twitter.com/paululele'
-  - icon: 'instagram'
-    link: 'https://instagram.com/paululele'
-  - icon: 'linkedin'
-    link: 'https://linkedin.com/in/lenpaul'
-
 contacts:
   - name: 'Ziyue Yu'
     title: 'Ph.D candidate'
@@ -32,6 +22,16 @@ contacts:
     image: 'assets/img/1 (7).jpg'
 
 courses:
-  - name: "Fluid mechanics"
+  - name: 'Fluid mechanics'
+
+  social:
+  - icon: 'github'
+    link: 'https://github.com/LeNPaul'
+  - icon: 'twitter'
+    link: 'https://twitter.com/paululele'
+  - icon: 'instagram'
+    link: 'https://instagram.com/paululele'
+  - icon: 'linkedin'
+    link: 'https://linkedin.com/in/lenpaul'
 
 
