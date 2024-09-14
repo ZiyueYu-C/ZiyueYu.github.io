@@ -33,10 +33,8 @@ publications:
 memory:
   - title: "Memory 1"
     url: "/memory/memory1"
-    image: "/assets/images/memory1.jpg"
-  - title: "Memory 2"
-    url: "/memory/memory2"
-    image: "/assets/images/memory2.jpg"
+    image: "/assets/images/memory_picture/1 (4).jpg"
+
 
 
 social:
