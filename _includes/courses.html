@@ -3,7 +3,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">courses</h3>
     <div class="row">
       <ul class="list-unstyled">
-        {% for memory in site.data.settings.courses %}
+        {% for courses in site.data.settings.courses %}
         <li class="mb-2">
           <a href="{{ courses.url }}" class="text-decoration-none">{{ memory.title }}</a>
         </li>
