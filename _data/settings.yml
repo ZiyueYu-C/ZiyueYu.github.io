@@ -10,6 +10,10 @@ menu:
   - name: 'contact'
     url: '/contact'
 
+memory:
+  - name: 'from junior to senior'
+  
+
 contacts：
   - name: 'Ziyue Yu'
     title: 'Ph.D candidate'
@@ -22,7 +26,7 @@ contacts：
     image: 'assets/img/1 (7).jpg'
 
 courses:
-  - name: 'Fluid mechanics'
+  - name: "Fluid mechanics"
 
   social:
   - icon: 'github'
