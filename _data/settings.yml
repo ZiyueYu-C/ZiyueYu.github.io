@@ -10,7 +10,7 @@ menu:
   - name: 'contact'
     url: '/contact'
 
-contacts:
+contacts：
   - name: 'Ziyue Yu'
     title: 'Ph.D candidate'
     department: 'Civil and Environmental Engineering'
