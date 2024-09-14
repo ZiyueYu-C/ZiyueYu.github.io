@@ -1,10 +1,10 @@
-featured:
+# featured:
 
-index:
-  - name: 'Alignment in tensor geometry intensify turbulent intensity'
-    url: 'https://www.leifang.org/'
-  - name: 'Lagrangian version Stokes number'
-    url: 'https://www.leifang.org/'
-    description: 'In preparation'
-  - name: 'In preparation'
+# index:
+# - name: 'Alignment in tensor geometry intensify turbulent intensity'
+#  url: 'https://www.leifang.org/'
+# - name: 'Lagrangian version Stokes number'
+#  url: 'https://www.leifang.org/'
+#  description: 'In preparation'
+# - name: 'In preparation'
 
