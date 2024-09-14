@@ -25,9 +25,9 @@ courses:
   - name: "Fluid mechanics"
 
 publications:
-  - title: 'Sample Publication 1'
+  - title: 'Low Reynold number with high energy flux by design alignment between stress by injection and background strain'
     url: '/publications/sample-publication-1'
-  - title: 'Sample Publication 2'
+  - title: 'Lagraingin version Stokes numbers'
     url: '/publications/sample-publication-2'
 
 memory:
