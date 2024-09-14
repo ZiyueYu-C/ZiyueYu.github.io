@@ -25,10 +25,10 @@ courses:
   - name: "Fluid Mechanics"
 
 publications:
-  - title: 'Low Reynold number with high energy flux by design alignment between stress by injection and background strain'
-    url: '/publications/sample-publication-1'
-  - title: 'Lagraingin version Stokes numbers'
-    url: '/publications/sample-publication-2'
+  - title: '[Low Reynold number with high energy flux by design alignment between stress by injection and background strain]'
+    url: 'https://www.leifang.org/'
+  - title: '[Lagraingin version Stokes numbers]'
+    url: 'https://www.leifang.org/'
 
 memory:
   - title: 'Sample Memory 1'
