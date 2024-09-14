@@ -19,3 +19,14 @@ social:
     link: 'https://instagram.com/paululele'
   - icon: 'linkedin'
     link: 'https://linkedin.com/in/lenpaul'
+
+contacts:
+  - name: 'Ziyue Yu'
+    title: 'Ph.D candidate'
+    department: 'Civil and Environmental Engineering'
+    institution: 'Your University'
+    institution_address: '123 University Street, Canada'
+    phone: '(123) 456-7890'
+    email: 'your-email@example.com'
+    office: 'Room 101, Building A'
+    image: 'assets/img/contact.jpg'
