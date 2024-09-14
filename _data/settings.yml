@@ -12,15 +12,3 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
-contacts:
-  - name: 'Ziyue Yu'
-    title: 'Ph.D candidate'
-    department: 'Civil and Environmental Engineering'
-    institution: "Haven't been done"
-    institution_address: 'NAN, Canada'
-    phone: '(000) 000-0000'
-    email: 'yuziyue020619@gmail.com'
-    office: 'NAN'
-    image: 'assets/img/contact.jpg'
-
-
