@@ -31,10 +31,13 @@ publications:
     url: 'https://www.leifang.org/'
 
 memory:
-  - title: 'Sample Memory 1'
-    url: '/memory/sample-memory-1'
-  - title: 'Sample Memory 2'
-    url: '/memory/sample-memory-2'
+  - title: "Memory 1"
+    url: "/memory/memory1"
+    image: "/assets/images/memory1.jpg"
+  - title: "Memory 2"
+    url: "/memory/memory2"
+    image: "/assets/images/memory2.jpg"
+
 
 social:
   - icon: 'github'
