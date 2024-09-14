@@ -3,14 +3,13 @@ $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $linkColor: #212529 !important;
 
-body {
-    background-image: url('assets/img/2997.jpg') !important;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+.home-background {
+  background-image: url('{{ site.github.url }}/assets/img/2997.jpg');
+  background-size: cover; /* 使背景图片覆盖整个容器 */
+  background-position: center; /* 居中显示背景图片 */
+  background-repeat: no-repeat; /* 不重复背景图片 */
+  height: 100vh; /* 设置容器的高度 */
 }
-
-
 
 
 body a {
