@@ -1,9 +1,14 @@
-<!-- Publications Include -->
-<h3>Publications</h3>
-<ul>
-  {% for publication in site.data.settings.publications %}
-    <li>
-      <a href="{{ publication.url }}">{{ publication.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+    <div class="row">
+      <ul class="list-unstyled">
+        {% for publication in site.data.settings.publications %}
+        <li class="mb-2">
+          <a href="{{ publication.url }}" class="text-decoration-none">{{ publication.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
