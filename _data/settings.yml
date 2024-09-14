@@ -10,12 +10,6 @@ menu:
   - name: 'contact'
     url: '/contact'
 
-memory:
-  - name: 'from junior to senior'
-    url: '/1'
-  
-  
-
 contacts：
   - name: 'Ziyue Yu'
     title: 'Ph.D candidate'
