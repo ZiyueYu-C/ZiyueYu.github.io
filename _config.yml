@@ -1,11 +1,11 @@
-url: "https://ziyyueyu-c.github.io" # 替换为您站点的 URL
-baseurl: "" # 如果您的站点位于子路径中，请在这里指定，例如 "/blog"
+url: "https://ziyyueyu-c.github.io" # 站点的 URL
+baseurl: "" # 站点位于根路径
 
-title: "Ziyue Yu | Curry" # 站点的标题
-description: "Hello! This is Ziyue Yu!" # 站点的描述
+title: "Ziyue Yu | Curry" # 站点标题
+description: "Hello! This is Ziyue Yu!" # 站点描述
 
 # 主题设置
-theme: jekyll-theme-primer # 主题名称，确保已在项目中安装
+theme: jekyll-theme-primer # 确保主题已安装
 
 # Markdown 处理方式
 markdown: kramdown
@@ -17,9 +17,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-# Excluded files and directories (可以根据需要调整)
+# 排除的文件和目录
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
+
+# Sass 编译设置（如果需要）
+sass:
+  sass_dir: _sass
