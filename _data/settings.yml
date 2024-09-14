@@ -10,7 +10,7 @@ menu:
   - name: 'contact'
     url: '/contact'
 
-contacts：
+contacts:
   - name: 'Ziyue Yu'
     title: 'Ph.D candidate'
     department: 'Civil and Environmental Engineering'
@@ -24,7 +24,19 @@ contacts：
 courses:
   - name: "Fluid mechanics"
 
-  social:
+publications:
+  - title: 'Sample Publication 1'
+    url: '/publications/sample-publication-1'
+  - title: 'Sample Publication 2'
+    url: '/publications/sample-publication-2'
+
+memory:
+  - title: 'Sample Memory 1'
+    url: '/memory/sample-memory-1'
+  - title: 'Sample Memory 2'
+    url: '/memory/sample-memory-2'
+
+social:
   - icon: 'github'
     link: 'https://github.com/LeNPaul'
   - icon: 'twitter'
@@ -33,5 +45,3 @@ courses:
     link: 'https://instagram.com/paululele'
   - icon: 'linkedin'
     link: 'https://linkedin.com/in/lenpaul'
-
-
